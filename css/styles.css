@@ -102,6 +102,11 @@ body {
 
 /* хедер */
 
+.header {
+  border-bottom: 1px solid #ececec;
+}
+
+
 .header-nav {
   align-items: center;
 }
@@ -471,7 +476,7 @@ margin-bottom: 30px;
   font-size: 18px;
   line-height: 2;
   letter-spacing: 0.06em;
-  padding-bottom: 4px;
+  margin-bottom: 4px;
 }
 
 .portfolio-text {
